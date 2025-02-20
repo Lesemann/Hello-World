@@ -27,7 +27,6 @@ This project is a simple demonstration of creating and using a GitHub repository
   - Contains the Python code to print out "Hello World" and other examples.
 - **README.md**  
   - Provides a detailed explanation of the project, usage, and file structure.
-- *Optional data files* (if any are added in the future).
 
 If you'd like to explore more datasets, here is an example link:  
 [Sample Data (U.S. Baby Names)](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
@@ -37,7 +36,7 @@ No additional documentation is required at this time.
 However, here's some **bold text** and *italic text* to demonstrate styling.
 
 ## Versioning
-We are using Git for version control. Major changes will be tagged and documented in the [releases](https://github.com/) section of this repository. Future updates may introduce:
+We are using Git for version control. Major changes will be tagged and documented in this repository. Future updates may introduce:
 - More complex Python scripts
 - Additional data files
 - Enhanced documentation
