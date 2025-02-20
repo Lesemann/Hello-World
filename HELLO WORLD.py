@@ -1,6 +1,6 @@
-""" x=2
+x=2
 if (x == 2):
-    print ("Hello world") """
+    print ("Hello world")
 
 """ int1 = 0
 print(int1)
@@ -32,12 +32,12 @@ print(message)
 message = message.replace('World', 'Universe')
 print(message) """
 
-greeting = 'Hello'
-name = 'Gabriel'
+# greeting = 'Hello'
+# name = 'Gabriel'
 
 # message = greeting+', '+name+'. Welcome!'
 # message = '{}, {}. Welcome!'.format(greeting, name)
 # message = f'{greeting}, {name.upper()}. Welcome!'
 # print(message)
 
-print(help(str.lower))
+# print(help(str.lower))
